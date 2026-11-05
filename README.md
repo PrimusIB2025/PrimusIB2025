@@ -1,69 +1,37 @@
-# Levon Sarkisyan
+# Levon Sarkisyan (PrimusIB2025)
 
-### Junior Penetration Tester | Infrastructure Security | Active Directory
+### Junior Penetration Tester | Infrastructure Pentest | Junior Red Team
 
-I'm an aspiring cybersecurity professional focused on infrastructure penetration testing, internal network security, and Active Directory environments.
+I am an aspiring cybersecurity professional focused on infrastructure penetration testing, internal network security, and Active Directory environments. I develop practical skills through hands-on labs (Hack The Box), independent research, and a 9-month cybersecurity program at CyberEd.
 
-I develop practical skills through hands-on labs, independent research, cybersecurity training, and technical projects.
+🔍 **Areas of Focus**
+- **Active Directory & Samba AD DC:** LDAP, ACL analysis, BloodHound, Kerberos security.
+- **Internal Network Reconnaissance:** Host/Service enumeration, DNS, LDAP, SNMP analysis.
+- **Attack Simulation:** Kerberoasting, AS-REP Roasting, NTLM Relay, Coercion, Zerologon (CVE-2020-1472), NoPac.
+- **Infrastructure Security:** Network devices (MFP, NAS/Synology) and web interface security assessment.
+- **Automation:** Configuring AI-agents for reconnaissance and preliminary data analysis.
 
----
+🛠️ **Technical Toolkit**
+- **Network & Enumeration:** Nmap, NetExec (nxc), ldapsearch, snmpwalk, dig
+- **Active Directory:** BloodHound, Impacket, samba-tool
+- **Programming & Analysis:** Python (reading/debugging), Browser DevTools, HTTP(S), SOAP/XML, HAR analysis
 
-## 🔍 Areas of Focus
+🧪 **Practical Experience & Projects**
+- **Active Directory Lab Environments:** Simulating attack chains, ACL analysis, and domain privilege escalation.
+- **Samba AD DC Research:** Analyzing LDAP and ACLs, adapting Impacket/samba-tool, debugging Python scripts.
+- **Corporate Infrastructure Security Assessment (Case Study):** Analyzed MFP web interfaces, HTTP(S) traffic, SOAP/XML API, SMTP, SNMP, and LDAP configurations. Assessed potential risks and access limitations.
+- **Hack The Box:** Continuous practical labs and write-ups.
 
-- Active Directory and Samba AD DC
-- Internal network reconnaissance
-- LDAP, DNS and SNMP enumeration
-- BloodHound and ACL analysis
-- Kerberos security and authentication attacks
-- Windows infrastructure security
-- Network device security assessment
-- Web interface and HTTP traffic analysis
+📚 **Education & Continuous Learning**
+- **CyberEd:** "Pentester" track (9-month program, mentorship).
+- **Gubkin Russian State University of Oil and Gas:** Master's in Management (Project Management, 2020).
+- **Moscow Polytechnic University:** Bachelor's in Economics (2016).
 
-## 🛠️ Technical Toolkit
-
-**Network & Enumeration**
-- Nmap
-- NetExec
-- ldapsearch
-- snmpwalk
-- dig
-
-**Active Directory**
-- BloodHound
-- Impacket
-- samba-tool
-- Kerberoasting
-- AS-REP Roasting
-- NTLM Relay and Coercion
-
-**Programming & Analysis**
-- Python (code reading and debugging)
-- Browser DevTools
-- HTTP(S), SOAP/XML, HAR analysis
-
-## 🧪 Practical Experience
-
-- Active Directory lab environments
-- Samba AD DC research
-- Internal network security assessment
-- Vulnerability analysis and risk assessment
-- Hack The Box practice
-- Network multifunction device security research
-
-## 📚 Continuous Learning
-
-Currently developing my skills in penetration testing, infrastructure security, Active Directory, Python, and offensive security methodologies.
-
-My approach is based on understanding the underlying technologies, validating findings, and documenting technical results.
-
-## 🎯 Career Objective
-
+🎯 **Career Objective**
 Looking for a Junior Penetration Tester / Junior Red Team opportunity to contribute to security projects, learn from experienced professionals, and grow as an infrastructure security specialist.
 
-## 📫 Contact
-
-TG: @Kt1djy
-
----
+📫 **Contact**
+- Email: psk.levai@mail.ru
+- Telegram: @Kt1djy
 
 *All security research and testing is conducted in authorized environments.*
